@@ -4,7 +4,9 @@
 py -m pip install numpy  
 
 ## Access to the Database  
-window: ${\textsf{\color{blue}\\\\zhoulab-nas-1}}$  
+window:  
+\\\\zhoulab-nas-1</span>  
+
 
 example:  
 import os  
